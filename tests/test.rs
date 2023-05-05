@@ -1,6 +1,6 @@
-use cranenum::Propagationalize;
+use cranenum::Cranenum;
 
-#[derive(Propagationalize)]
+#[derive(Cranenum)]
 // #[self_name(lowercase)]
 enum RootError {
   CustomError(CustomError),
