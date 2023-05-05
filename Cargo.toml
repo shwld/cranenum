@@ -2,6 +2,10 @@
 name = "cranenum"
 version = "0.0.1"
 edition = "2021"
+description = "CranEnum is a crate that makes it possible to convert the type set as a value in an enum to its parent enum"
+license = "MIT"
+keywords = ["enum", "macro"]
+repository = "https://github.com/shwld/cranenum"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
